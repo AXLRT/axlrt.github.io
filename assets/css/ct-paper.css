@@ -3122,11 +3122,11 @@ textarea.form-control {
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*  
+/*
  *
  *   SCSS by Creative Tim
  *   http://www.creative-tim.com
- *   
+ *
  */
 .datepicker {
   top: 0;
@@ -3320,4 +3320,10 @@ textarea.form-control {
 .datepicker-months thead {
   padding: 0 0 3px;
   display: block;
+}
+
+hr {
+  height:0;
+  border:0;
+  border-top:1px solid #EB5E28; 
 }
