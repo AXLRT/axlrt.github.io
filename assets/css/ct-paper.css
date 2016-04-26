@@ -1183,7 +1183,7 @@ textarea.form-control {
 
 .alert-warning {
   background-color: #FFE28C;
-  color: #BB992F;
+  color: #333;
 }
 
 .alert-danger {
@@ -3325,5 +3325,5 @@ textarea.form-control {
 hr {
   height:0;
   border:0;
-  border-top:1px solid #EB5E28; 
+  border-top:1px solid #EB5E28;
 }
