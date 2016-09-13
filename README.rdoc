@@ -2,5 +2,3 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
-
-Codecademy's 'Make a Website' project at http://www.codecademy.com/en/skills/make-a-website and a CSS variant
